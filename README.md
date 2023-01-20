@@ -6,7 +6,7 @@ ITPG-GT 2338 – 001
 
 Days and Times: Mondays 3:20PM - 5:50PM
 
-Location: 370 Jay Street, Room \_\_\_\_ Loc: Brooklyn Campus
+Location: 370 Jay Street, Room Room 410 Loc: Brooklyn Campus
 
 Dates: 01/23/23 - 03/20/23
 
