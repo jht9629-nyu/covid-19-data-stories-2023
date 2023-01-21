@@ -74,4 +74,5 @@ If you are in need of project documentation (photos, film, interviews, etc.), yo
 ## Prior versions
 
 - https://github.com/jht9629/covid-19-data-stories-2022
+
 - https://github.com/jht9629/covid-19-data-stories
