@@ -1,6 +1,6 @@
 # WEEK 2
 
-## Homework
+<!--## Homework
 
 #### INSTRUCTIONS
 
@@ -175,3 +175,4 @@ WEALTH AND POVERTY
 
 - https://mkorostoff.github.io/1-pixel-wealth/
 - https://www.gapminder.org/dollar-street
+--!>
