@@ -1,4 +1,4 @@
-# WEEK 1-2
+# WEEK 1
 
 ## Homework
 
@@ -57,7 +57,7 @@ Develop and document original ideas for memorials, grief and mourning at any sca
 
 ### COVID DASHBOARDS
 
-- https://jht1493.net/COVID-19-Impact/Dashboard/a0/:
+- https://epvisual.com/COVID-19-Impact/Dashboard/a0/:
 
 - [Johns Hopkins University COVID-19 Dashboard](https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
 

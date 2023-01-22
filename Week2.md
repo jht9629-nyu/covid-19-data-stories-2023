@@ -1,4 +1,4 @@
-# WEEK 1-2
+# WEEK 2
 
 ## Homework
 
