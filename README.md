@@ -71,8 +71,8 @@ Also, if you need shop help, you can meet with any of these knowledgeable shop p
 
 If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://forms.gle/V2x4mecHPzUkEeaU7
 
-## Prior versions
+<!-- ## Prior versions
 
 - https://github.com/jht9629/covid-19-data-stories-2022
 
-- https://github.com/jht9629/covid-19-data-stories
+- https://github.com/jht9629/covid-19-data-stories -->
