@@ -29,7 +29,7 @@ activities and group or individual projects. Students will be expected to dedica
 
 **[Week 4:](Week4.md)** Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class.
 
-**[Week 5:](Week5.md)** Students present the first iteration of the course project for in-class discussion and feedback.
+**[Week 5:](Week5.md)** Students present ideas for the first iteration of the course project for in-class discussion and feedback.
 
 **[Week 6:](Week6.md)** Students present the next iteration of the course project for in-class discussion and feedback.
 

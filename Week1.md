@@ -2,62 +2,39 @@
 
 ## Homework
 
-#### INSTRUCTIONS
-
-Reflect on Week 1 class and the skills you have or would like to enhance.
-Develop and document an initial concept for your FINAL PROJECT.
-
-Your final project should
-
-- Contribute to the COVID-19 Impact Project OR
-- Be centered on pandemic data around something culturally relevant to you OR
-- Be related to populations that experienced disparate effects due to the pandemic
-
 #### SUBMITTING YOUR WORK
 
-Create a folder with your name in the class [GOOGLE DRIVE](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing). Homework must be submitted by midnight on the night before class. Submit homework to your folder on
-
-- [GOOGLE DRIVE](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing)
+Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing). Homework must be submitted by midnight on the night before class. Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing)
 
 #### DUE WEEK 2:
 
-Project ideas with documentation must be presented in class for feedback on Week 2.
+#### INSTRUCTIONS
 
-#### FINAL PROJECT IDEAS
-
-#### Researcher/Writer/Artist
-
-- Researcher: Curate data vis and stories on marginalized demographic group; collect examples of data vis that can inspire our work.
-- Writer: Collect and present at least one personal/community original pandemic story. Does the story connect to the data? How? Document in the medium of your choice (audio/visual/performance etc…)
-- Artist: Express a pandemic narrative in the medium of your choice.
-
-#### Coder
-
-- Coder: Develop data vis sketch/prototype/idea using tools of your choice. Present a working model or a model with well documented issues
-
-#### Demographics to explore
-
-- Essential workers
-- Race/ethnicity and COVID-19
-- Poverty and COVID-19
-- Culturally relevant/localized community
-
-#### Memorials, grief and mourning
-
-Develop and document original ideas for memorials, grief and mourning at any scale in an ongoing pandemic.
+* Reflect on Week 1 class. Think about whether you might like to contribute to building the project or creating a new piece of work for your final project.
+* Watch the documentary "The Color of Care" on The Smithsonian Channel and be prepared to share your responses to the assignment below:
+  1) In a medium of your choice, react to one thing in the documentary that surprised/moved or inspired you. (essay, poetry, prose, art etc)
 
 ## Links and Resources
 
 ### LINKS FOR CLASSROOM ACTIVITIES
 
-#### Activity 3
+#### Activity 1 - Pandemic Artifacts Activity
+- [Show One Thing](https://docs.google.com/presentation/d/1caKYaaPGzV_VEqGUzJELfOHHOt438ZOuH1sMIGVpaZk/edit?usp=sharing) 
 
-- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt
+#### Activity 2 - Humanizing 1900s data on Black Americans
+In groups of 2 choose one data visualization from W.E.B. DuBois' collection for the 1900's Paris Expo.  You can use any of the following resources
+- INSTALLATION ON THE FLOOR: JHT's Colored Portraits Digital Art on the floor
+- BOOKS: "WEB DuBois's Data Portraits Visualizing Black America" or "WEB DuBois's Data Portraits Visualizing Black America"
+- WEBSITE: [W.E.B. DuBois Data Visualizations](http://metadeepmix.com/webdb/webdb/)
+
+#### Activity 3 - Using p5js to analyze and compare public data from NYC repo
+
+- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
   loadJSON c19 series brooklyn
 
-### COVID DASHBOARDS
+### COVID-19 DASHBOARDS
 
-- https://epvisual.com/COVID-19-Impact/Dashboard/a0/:
+- https://jht1493.net/COVID-19-Impact/Dashboard/a0/:
 
 - [Johns Hopkins University COVID-19 Dashboard](https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
 
@@ -88,6 +65,7 @@ Data from NYC Department of Health and Mental Hygiene
 #### Florence Nightingale
 
 Florence Nightingale, aka the "Lady with the Lamp", best known for her nursing work during the Crimean war. She was a nurse and a statistician who collected and analysed data on the deaths of soldiers in Crimean war. The data showed that more soldiers were dying from infectious diseases due to unsanitary conditions and poor ventilation than from wounds of war and other causes. Florence Nightingale instituted reforms to mitigate these outcomes. She created visualizations to communicate her findings and the results of her interventions to the general public.
+READ MORE ABOUT FLORENCE NIGHTINGALE
 
 - https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician
 - https://www.theguardian.com/news/datablog/2010/aug/13/florence-nightingale-graphics
@@ -116,11 +94,6 @@ African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposit
 - http://metadeepmix.com/webdb/webdb/
 - http://www.loc.gov/pictures/collection/anedub/item/00651763/
 
-### HUMANIZING DATA
-
-- [COVID-19 Impact Project Blog Post on Humanizing COVID-19 Data](https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/)
-
-- [Washington Post Article: Pandemic First Wave](https://www.washingtonpost.com/nation/2020/04/12/coronavirus-first-1000-deaths/?arc404=true)
 
 ### DATA LITERACY AND DATA VIZUALIZATION TOOLS
 
@@ -155,7 +128,7 @@ In creating or examining visualizations ask:
 
 \*Source: Tableau Online
 
-### DATA VISUALIZATION EXAMPLES
+### COVID-19 DATA VISUALIZATION EXAMPLES
 
 COVID-19
 
@@ -167,7 +140,7 @@ COVID-19
 
 - https://covid19impactproject.com/extracting-stories-from-data/spring-2021-student-project-samples/ (Focus Tito)
 
-COVID & wealth
+COVID & Wealth
 
 - https://www.analyticsvidhya.com/blog/2021/01/build-your-data-visualization-intuition-did-the-rich-get-richer-during-the-pandemic/
 
@@ -175,3 +148,9 @@ WEALTH AND POVERTY
 
 - https://mkorostoff.github.io/1-pixel-wealth/
 - https://www.gapminder.org/dollar-street
+
+### HUMANIZING COVID-19 DATA
+
+- [COVID-19 Impact Project Blog Post on Humanizing COVID-19 Data](https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/)
+
+- [Washington Post Article: Pandemic First Wave](https://www.washingtonpost.com/nation/2020/04/12/coronavirus-first-1000-deaths/?arc404=true)
