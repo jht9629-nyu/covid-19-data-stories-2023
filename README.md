@@ -21,7 +21,7 @@ This course will use the open source [The COVID-19 Impact Project](https://covid
 Students will participate in lectures, research, discussion groups, hands on design and build
 activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1: 01/23/23](Week1.md)** Structure, developement and components of the Covid-19 Impact Project. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  Data literacy and accessible tools for data storytelling.
+**[Week 1: 01/23/23](Week1.md)** Structure, development and components of the Covid-19 Impact Project. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  Data literacy and accessible tools for data storytelling.
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
 **[Week 2: 01/30/23](Week2.md)** Lecture: Humanizing COVID-19 Data.  More on open source data projects. Memorials, grief and mourning for mass death events.
