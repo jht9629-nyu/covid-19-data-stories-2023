@@ -21,19 +21,19 @@ This course will use the open source [The COVID-19 Impact Project](https://covid
 Students will participate in lectures, research, discussion groups, hands on design and build
 activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1:]()** Structure, developement and components of the Covid-19 Impact Project. Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community.
+**[Week 1:](Week1.md)** Structure, developement and components of the Covid-19 Impact Project. Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community.
 
-**[Week 2:]()** Other Open Source Data Projects.
+**[Week 2:](Week2.md)** Other Open Source Data Projects.
 
-**[Week 3:]()** Early Pioneers of Data Visualization.
+**[Week 3:](Week3.md)** Early Pioneers of Data Visualization.
 
-**[Week 4:]()** Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class.
+**[Week 4:](Week4.md)** Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class.
 
-**[Week 5:](Week5-6-7.md)** Students present the first iteration of the course project for in-class discussion and feedback.
+**[Week 5:](Week5.md)** Students present the first iteration of the course project for in-class discussion and feedback.
 
-**[Week 6:](Week5-6-7.md)** Students present the next iteration of the course project for in-class discussion and feedback.
+**[Week 6:](Week6.md)** Students present the next iteration of the course project for in-class discussion and feedback.
 
-**[Week 7:](Week5-6-7.md)** Students present the final iteration of the class project. All assignments must include documentation.
+**[Week 7:](Week7.md)** Students present the final iteration of the class project. All assignments must include documentation.
 
 _Students are invited to continue their participation in the project after the course ends. We will be seeking funding via grants to implement viable concepts._
 
