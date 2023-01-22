@@ -23,7 +23,7 @@ activities and group or individual projects. Students will be expected to dedica
 
 **[Week 1:](Week1.md)** Structure, developement and components of the Covid-19 Impact Project. Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community.
 
-**[Week 2:](Week2.md)** Other Open Source Data Projects.
+<!-- **[Week 2:](Week2.md)** Other Open Source Data Projects.
 
 **[Week 3:](Week3.md)** Early Pioneers of Data Visualization.
 
@@ -33,7 +33,7 @@ activities and group or individual projects. Students will be expected to dedica
 
 **[Week 6:](Week6.md)** Students present the next iteration of the course project for in-class discussion and feedback.
 
-**[Week 7:](Week7.md)** Students present the final iteration of the class project. All assignments must include documentation.
+**[Week 7:](Week7.md)** Students present the final iteration of the class project. All assignments must include documentation. -->
 
 _Students are invited to continue their participation in the project after the course ends. We will be seeking funding via grants to implement viable concepts._
 
