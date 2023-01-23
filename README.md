@@ -59,11 +59,11 @@ _Students are invited to continue their participation in the project after the c
 
 Students will be graded on
 
-➢ Attendance and class participation including written peer reviews/feedback (mandatory)
+➢ Attendance and class participation including written peer reviews/feedback (mandatory) 20%
 
-➢ Weekly homework assignments (mandatory)
+➢ Weekly homework assignments (mandatory) 20%
 
-➢ Final project (3 iterations and documentation)
+➢ Final project (3 iterations and documentation) 60%
 
 ## RESOURCES
 
