@@ -11,7 +11,7 @@ Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.go
 #### INSTRUCTIONS
 
 * Reflect on Week 1 class. Think about whether you might like to contribute to building the project or creating a new piece of work for your final project.
-* Watch the documentary "The Color of Care" on [The Smithsonian Channel](https://www.smithsonianchannel.com/special/the-color-of-care) (free for 24hrs from signup).  This documentary can also be seen on Hulu if you have a subscription. The Color of Care chronicles how people of color suffer from systemically substandard healthcare in the United States, with a pressing focus on how the Covid-19 pandemic shed light on the tragic consequences of that inequity. 
+* Watch the documentary ["The Color of Care"](https://www.oprahdaily.com/entertainment/tv-movies/a39301647/oprah-color-of-care-documentary/) on [The Smithsonian Channel](https://www.smithsonianchannel.com/special/the-color-of-care) (free for 24hrs from signup).  This documentary can also be seen on Hulu if you have a subscription. The Color of Care chronicles how people of color suffer from systemically substandard healthcare in the United States, with a pressing focus on how the Covid-19 pandemic shed light on the tragic consequences of that inequity. 
 
 Be prepared to share your responses to the assignment below:
   1) In a medium of your choice, react to one thing in the documentary that surprised/moved or inspired you. (essay, poetry, prose, art etc)
