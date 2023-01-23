@@ -29,11 +29,6 @@ In groups of 2 choose one data visualization from W.E.B. DuBois' collection for 
 - BOOKS: "WEB DuBois's Data Portraits Visualizing Black America" or "WEB DuBois's Data Portraits Visualizing Black America"
 - WEBSITE: [W.E.B. DuBois Data Visualizations](http://metadeepmix.com/webdb/webdb/)
 
-#### Activity 3 - Using p5js to analyze and compare public data from NYC repo
-
-- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
-  loadJSON c19 series brooklyn
-
 ### COVID-19 DASHBOARDS
 
 - https://jht1493.net/COVID-19-Impact/Dashboard/a0/:
@@ -61,6 +56,12 @@ Data from NYC Department of Health and Mental Hygiene
 - Parsed data as human readable files
   - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
   - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
+
+  #### Activity 3 - Using p5js to analyze and compare public data from NYC repo
+
+- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
+  loadJSON c19 series brooklyn
+
 
 ### DATA VISUALIZATION PIONEERS
 
