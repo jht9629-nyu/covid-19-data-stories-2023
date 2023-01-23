@@ -57,7 +57,7 @@ Data from NYC Department of Health and Mental Hygiene
   - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
   - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
 
-  #### Activity 3 - Using p5js to analyze and compare public data from NYC repo
+#### Activity 3 - Using p5js to analyze and compare public data from NYC repo
 
 - https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
   loadJSON c19 series brooklyn
