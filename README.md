@@ -1,4 +1,4 @@
-# COVID-19 Impact Project: Extracting Stories from Data
+# Data Storytelling for Social Resilience
 
 ## Lecture
 
@@ -14,7 +14,7 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://covid19impactproject.com/) as a basis to explore ways to humanize the unfolding data on the coronavirus pandemic. Students are invited to collaborate on the COVID-19 Impact Project. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects related to COVID-19 and discuss the questions they are trying to answer or problems they are trying to solve. We will examine historical and contemporary data visualizations. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization. Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on issues of systemic inequity in the United States. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects and discuss the questions they are trying to answer or problems they are trying to solve. We will examine historical and contemporary data visualizations for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization. Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
 
 ## Course Outline
 
@@ -24,7 +24,7 @@ This course will use the open source [The COVID-19 Impact Project](https://covid
 
 ● Storytelling
 
-● Grief, Ritual and Memorialization
+● Grief, Ritual and Memorialization for mass death events
 
 ## Course Structure
 
