@@ -2,7 +2,7 @@
 
 ## Lecture
 
-ITPG-GT 2338 – 001 
+ITPG-GT 
 
 Location: 370 Jay Street, Room Room 410 Loc: Brooklyn Campus
 
@@ -10,7 +10,7 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on issues of systemic inequity globally and in the United States. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine historical and contemporary data visualizations for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. 
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on global and local systemic inequity, and creative uses of using data for advocacy and change. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine and drawinspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. 
 
 Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
 
@@ -22,7 +22,7 @@ Students can choose to participate as javascript coders, p5js explorers, UI/UX d
 
 ● Storytelling with and from Data
 
-● From the Macro to the Micro: How data storytelling can be used as a scaffold to support grief, ritual and memorialization for mass death events
+● Data storytelling as a scaffold to support grief, ritual and memorialization after mass death events
 
 ** _Students wishing to pursue their final projects beyond the class will be provided with information about resources at NYU for supporting student projects that amplify underrepresented narratives._  
 
@@ -39,7 +39,7 @@ activities and group or individual projects. Students will be expected to dedica
 **[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week3.md)** Lecture: Macro to micro:- How data can inform advocacy for creating memorials, and create space for grieving and mourning in the case of mass death events. Guest Speaker
+**[Week 3](Week3.md)** Lecture and Guest Speaker: Macro to micro:- Data in support of human rituals of grief, mourning and creation of monuments after mass death events. 
 <!-- Early Pioneers of Data Visualization. -->
 
 **[Week 4](Week4.md)** Lecture: Big data, small personal data, data art. Guest Speaker
