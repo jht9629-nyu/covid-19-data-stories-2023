@@ -39,7 +39,7 @@ activities and group or individual projects. Students will be expected to dedica
 **[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week3.md)** Lecture and Guest Speaker: Macro to micro:- Data in support of human rituals of grief, mourning and creation of monuments after mass death events. 
+**[Week 3](Week3.md)** Lecture and Guest Speaker: Data in support of human rituals of grief, mourning and creation of monuments after mass death events. 
 <!-- Early Pioneers of Data Visualization. -->
 
 **[Week 4](Week4.md)** Lecture: Big data, small personal data, data art. Guest Speaker
