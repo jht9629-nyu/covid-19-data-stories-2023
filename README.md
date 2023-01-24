@@ -30,22 +30,22 @@ activities and group or individual projects. Students will be expected to dedica
 **[Week 1](Week1.md)** Structure, development and components of the Covid-19 Impact Project. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. Humanizing Data.  More on open source data projects. How data can inform memorials, grief and mourning for mass death events.
+**[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week3.md)** Lecture: Big data, small personal data, data art, Guest Speaker
+**[Week 3](Week3.md)** Lecture: Macro to micro:- How data can inform advocacy for creating memorials, and create space for grieving and mourning in the case of mass death events. Guest Speaker
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4](Week4.md)** Lecture: Mass death events, data and memorials, Guest Speaker
+**[Week 4](Week4.md)** Lecture: Big data, small personal data, data art, Guest Speaker
 
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5](Week5.md)** Lecture:  Imagining AI for Social Resilience Students present final project concept and first iteration for in-class discussion and feedback. All project documentation uploaded to class Google drive.
+**[Week 5](Week5.md)** Lecture:  Outside the box: Data storytelling in public spaces.  Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive.
 
 **[Week 6](Week6.md)** Guest Speaker. Students present second iteration of final project for in class discussion and feedback. All project documentation uploaded to class Google drive.
 
-**[Week 7](Week7.md)** Classroom visitor (artist). Students present the final project. All assignments must include documentation. All project documentation uploaded to class Google drive.
+**[Week 7](Week7.md)** Classroom visitor(s). Students present the final project. All assignments must include documentation. All project documentation uploaded to class Google drive.
 
 _Students are invited to continue their participation in the project after the course ends. We will be seeking funding via grants to implement viable concepts._
 
