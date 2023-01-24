@@ -10,7 +10,9 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on issues of systemic inequity experienced globally and in the United States. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine historical and contemporary data visualizations for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on issues of systemic inequity globally and in the United States. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine historical and contemporary data visualizations for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. 
+
+Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
 
 ## Course Outline
 
@@ -22,12 +24,16 @@ This course will use the open source [The COVID-19 Impact Project](https://itp.n
 
 ● From the Macro to the Micro: How data storytelling can be used as a scaffold to support grief, ritual and memorialization for mass death events
 
+** _Students wishing to pursue their final projects beyond the class will be provided with information about resources at NYU for supporting student projects that amplify underrepresented narratives._  
+
+** _Students wishing to continue their participation in The COVID-19 Impact Project after the course ends should notify us as we are seeking grant funding to implement viable concepts._
+
 ## Course Structure
 
 Students will participate in lectures, research, discussion groups, hands on design and build
 activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1](Week1.md)** Structure, development and components of the Covid-19 Impact Project. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
+**[Week 1](Week1.md)** Lecture: Structure, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
 **[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
@@ -36,18 +42,16 @@ activities and group or individual projects. Students will be expected to dedica
 **[Week 3](Week3.md)** Lecture: Macro to micro:- How data can inform advocacy for creating memorials, and create space for grieving and mourning in the case of mass death events. Guest Speaker
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4](Week4.md)** Lecture: Big data, small personal data, data art, Guest Speaker
+**[Week 4](Week4.md)** Lecture: Big data, small personal data, data art. Guest Speaker
 
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
 **[Week 5](Week5.md)** Lecture:  Outside the box: Data storytelling in public spaces.  Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive.
 
-**[Week 6](Week6.md)** Guest Speaker. Students present second iteration of final project for in class discussion and feedback. All project documentation uploaded to class Google drive.
+**[Week 6](Week6.md)** Presentations and Guest Speaker: Students present second iteration of final project for in class discussion and feedback. All project documentation uploaded to class Google drive.
 
-**[Week 7](Week7.md)** Classroom visitor(s). Students present the final project. All assignments must include documentation. All project documentation uploaded to class Google drive.
-
-_Students are invited to continue their participation in the project after the course ends. We will be seeking funding via grants to implement viable concepts._
+**[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation uploaded to class Google drive.
 
 
 ## Grading
