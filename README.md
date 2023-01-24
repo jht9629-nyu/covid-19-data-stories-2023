@@ -10,7 +10,7 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 ## Course Description
 
-This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on myriad issues of global and local inequities and injustices. We will explore and invent creative uses of data for advocacy and change. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine and drawinspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. 
+This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on systemic inequity and injustice on a global and local scale. We will explore and invent creative uses of data for advocacy and change. Students will discover how data flows from public github repositories and tools needed to visualize the data. We will review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve. We will examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. Using data visualization as a scaffold, we will explore ways to support community driven mourning and memorialization after mass death events. 
 
 Students can choose to participate as javascript coders, p5js explorers, UI/UX designers, citizen journalists, or data science explorers.
 
@@ -47,11 +47,11 @@ activities and group or individual projects. Students will be expected to dedica
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5](Week5.md)** Lecture:  Outside the box: Data storytelling in public spaces.  Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive.
+**[Week 5](Week5.md)** Lecture:  Outside the box: Data storytelling in public spaces.  Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
 
-**[Week 6](Week6.md)** Presentations and Guest Speaker: Students present second iteration of final project for in class discussion and feedback. All project documentation uploaded to class Google drive.
+**[Week 6](Week6.md)** Presentations and Guest Speaker: Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
-**[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation uploaded to class Google drive.
+**[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 
 
 ## Grading
