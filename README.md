@@ -1,4 +1,4 @@
-# Data Storytelling for Social Resilience
+# Data Storytelling for Memory Making and Social Resilience
 
 ## Lecture
 
