@@ -46,7 +46,7 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 Students will participate in lectures, research, discussion groups, hands on design and build
 activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (10/27/23)](Week1.md)** Lecture: Structure, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
+**[Week 1 (10/27/23)](Week1.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
 **[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
