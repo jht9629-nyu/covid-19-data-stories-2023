@@ -49,7 +49,7 @@ activities and group or individual projects. Students will be expected to dedica
 **[Week 1 (10/27/23)](Week1.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
+**[Week 2 (11/03/23)](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
 <!-- Other Open Source Data Projects. -->
 
 **[Week 3](Week3.md)** Lecture and Guest Speaker: Data in support of human rituals of grief, mourning and creation of monuments after mass death events. 
