@@ -1,74 +1,44 @@
 # WEEK 1
 
-## Homework
+## Resources for In Class Activities
 
-#### SUBMITTING YOUR WORK
+### CLASSROOM ACTIVITIES
 
-Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing). Homework must be submitted by midnight on the night before class. Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing)
+#### Activity 1 - Introduction and Reflection
+> **"Art is a bridge between fact and feeling"**
+Ekene Ijeoma
 
-#### DUE WEEK 2:
+https://studioijeoma.com
 
-#### INSTRUCTIONS
+Photo from Wage # 2 Installation
 
-* Reflect on Week 1 class. Think about whether you might like to contribute to building the project or creating a new piece of work for your final project.
-* Watch the documentary ["The Color of Care"](https://www.oprahdaily.com/entertainment/tv-movies/a39301647/oprah-color-of-care-documentary/) on [The Smithsonian Channel](https://www.smithsonianchannel.com/special/the-color-of-care) (free for 24hrs from signup).  This documentary can also be seen on Hulu if you have a subscription. The Color of Care chronicles how people of color suffer from systemically substandard healthcare in the United States, with a pressing focus on how the Covid-19 pandemic shed light on the tragic consequences of that inequity. 
+Class discussion
 
-Be prepared to share your responses to the assignment below:
-  1) In a medium of your choice, react to one thing in the documentary that surprised/moved or inspired you. (essay, poetry, prose, art etc)
+#### Activity 2 - Simulated Dendochronology of NYC Immigration
+https://www.mcny.org/whoweare
 
-## Links and Resources
+From the NYC by the Numbers Exhibit at The Museum of the City of New York
 
-### LINKS FOR CLASSROOM ACTIVITIES
+Class discussion
 
-#### Activity 1 - Pandemic Artifacts Activity
-- [Show One Thing](https://docs.google.com/presentation/d/1caKYaaPGzV_VEqGUzJELfOHHOt438ZOuH1sMIGVpaZk/edit?usp=sharing) 
+#### Activity 3 (whole group) - The Flu and the Philly Parade
+https://www.smithsonianmag.com/history/philadelphia-threw-wwi-parade-gave-thousands-onlookers-flu-180970372/ 
 
-#### Activity 2 - Humanizing 1900s data on Black Americans
-In groups of 2 choose one data visualization from W.E.B. DuBois' collection for the 1900's Paris Expo.  You can use any of the following resources
+Brainstorm how would you create a vizualization from the information.
+
+#### Activity 4 - W.E.B. DuBois: Humanizing 1900s data on Black Americans
+In small groups choose one data visualization from W.E.B. DuBois' collection for the 1900's Paris Expo, to discuss.  You can use any of the following resources
 - INSTALLATION ON THE FLOOR: JHT's Colored Portraits Digital Art on the floor
-- BOOKS: "WEB DuBois's Data Portraits Visualizing Black America" or "WEB DuBois's Data Portraits Visualizing Black America"
+- BOOKS: "W.E.B. DuBois's Data Portraits Visualizing Black America" or "WEB DuBois's Data Portraits Visualizing Black America"
 - WEBSITE: [W.E.B. DuBois Data Visualizations](http://metadeepmix.com/webdb/webdb/)
-
-### COVID-19 DASHBOARDS
-
-- https://jht1493.net/COVID-19-Impact/Dashboard/a0/:
-
-- [Johns Hopkins University COVID-19 Dashboard](https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
-
-- [New York City Coronavirus Data](https://www.nytimes.com/interactive/2021/us/new-york-city-new-york-covid-cases.html)
-
-- [Our World in Data](https://ourworldindata.org/coronavirus)
-
-### DATA FLOW FROM OPEN SORCE REPOS
-
-Data from JHU Repo
-
-- [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
-- [JHU CSSE Daily Report Sample](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-10-2022.csv)
-- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/aparse.js) developed by John Henry Thompson to parse JHU data.
-- The data parsed into a [json file](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/world/c_meta.json)
-
-Data from NYC Department of Health and Mental Hygiene
-
-- NYC DOHMH [Github](https://github.com/nychealth/coronavirus-data)
-- NYC Data by [zip code](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv)
-- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/parse_nyc.js) developed by John Henry Thompson to parse NYC data
-- Parsed data as human readable files
-  - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
-  - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
-
-#### Activity 3 - Using p5js to analyze and compare public data from NYC repo
-
-- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
-  loadJSON c19 series brooklyn
-
 
 ### DATA VISUALIZATION PIONEERS
 
 #### Florence Nightingale
 
 Florence Nightingale, aka the "Lady with the Lamp", best known for her nursing work during the Crimean war. She was a nurse and a statistician who collected and analysed data on the deaths of soldiers in Crimean war. The data showed that more soldiers were dying from infectious diseases due to unsanitary conditions and poor ventilation than from wounds of war and other causes. Florence Nightingale instituted reforms to mitigate these outcomes. She created visualizations to communicate her findings and the results of her interventions to the general public.
-READ MORE ABOUT FLORENCE NIGHTINGALE
+
+**LEARN MORE ABOUT FLORENCE NIGHTINGALE**
 
 - https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician
 - https://www.theguardian.com/news/datablog/2010/aug/13/florence-nightingale-graphics
@@ -78,10 +48,12 @@ READ MORE ABOUT FLORENCE NIGHTINGALE
 - http://understandinguncertainty.org/node/214
 - https://www.sciencenews.org/article/florence-nightingale-birthday-power-visualizing-science
 
+
 #### W. E. B. DuBois
 
 "The core mission of Du Bois’s sociological research was to forcefully refute the widespread belief that black Americans were innately inferior and incapable of social advancement.”
 
+**LEARN MORE ABOUT W. E. B. DUBOIS**
 #### BOOKS
 
 - [WEB DuBois's Data Portraits Visualizing Black America](https://www.amazon.com/W-Boiss-Data-Portraits-Visualizing/dp/1616897066/ref=sr_1_1_sspa?crid=2UOK152V8MZKH&keywords=web+dubois+data+portraits&qid=1644337640&s=books&sprefix=WEB+dubois+data+p%2Cstripbooks%2C63&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFHQlhERFc3UjgySDImZW5jcnlwdGVkSWQ9QTA1NDE0NTRGWVBQTEJKQVBYSEgmZW5jcnlwdGVkQWRJZD1BMDUwNjQyNDJHWDdOWjZBMTJQVDUmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
@@ -96,64 +68,25 @@ African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposit
 
 - http://metadeepmix.com/webdb/webdb/
 - http://www.loc.gov/pictures/collection/anedub/item/00651763/
+## Homework
 
+#### SUBMITTING YOUR WORK
 
-### DATA LITERACY AND DATA VIZUALIZATION TOOLS
+Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing). Homework must be submitted by midnight on the night before class. Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing)
 
-- The Covid Tracking Project https://covidtracking.com/
-- https://www.tableau.com/academic/students Download and install Tableau. Get one year license for use (renewable)
-- p5*js [p5*js.org](https://p5js.org/)
+#### DUE WEEK 2:- Put your work in the folder labeled "Week 1"
 
-### SOME NOTES ON DATA LITERACY/EXTRACTING STORIES FROM DATA\*
+1. **Reflect on Week 1 class.** Think about whether you might like to contribute to building the project or creating a new piece of work for your final project. *Be prepared to discuss in class.*
 
-Data is a set of numerical values described by qualitative and quantitative variables.
-Data visualizations (graphs, charts, maps and other creative visualizatoins) should:
+2. **THE COVID TRACKING PROJECT:** https://revealnews.org/article/covid-tracking-project/
+This three-part podcast series exposes the Centers for Disease Control and Prevention’s (CDC's) bungled response to COVID-19 in the early days of the pandemic and takes listeners inside the massive volunteer effort to collect data about tests, cases, hospitalizations and deaths in the U.S.  The United States has 4% of the world’s population, but 16% of COVID-19 deaths. This podcast series investigates the failures that led to over 1 million Americans dying from COVID-19 and what that tells us about the nation’s ability to respond to the next pandemic. This three-part series was reported by Artis Curiskis and Kara Oehler and hosted by infectious disease expert Jessica Malaty Rivera.
+* **Listen to Episode 1 of the COVID Tracking Project podcast (50 mins).** https://revealnews.org/article/covid-tracking-project/
+* In a medium of your choice, react to at least one thing that caught your attention. (essay, poetry, prose, art etc)
+3. **Choose 2 data vizzies that you would like to share with the class.**  Put screenshots, images (if from printed material) and links if relevant into your Week 1 Google folder.
+* Why did you choose those vizzies?  
+* Describe what the vizzie is trying to convey and how. 
 
-- Have a clear title and purpose
-- Provide insight into the data?
-- Make clear what the visualization represents
-- Make it's intention clear within moments
-- Reveal trends and patterns if they exist
-- Provide easy access to insights into the data
+## Additional Links and Resources
 
-In addition:
+### LINKS FOR CLASSROOM ACTIVITIES
 
-- If outliers in the data exist they should be easy to spot
-- The completeness of the data should be explained
-- A data literate consumer should be able to spot whether the author deliberately excluded or hid relevant data
-
-In creating or examining visualizations ask:
-
-- Can I answer all of my questions with what I see, or do I need more data?
-- ​Is it clear what has been measured, and what the numbers represent?
-- Has the author included helpful notes, labels, and navigational hints?
-- Can you gather useful and actionable data from this visualization?
-
-\*Source: Tableau Online
-
-### COVID-19 DATA VISUALIZATION EXAMPLES
-
-COVID-19
-
-- https://covid19impactproject.com/covid-19-memorial-ticker/
-
-- https://www.nationalgeographic.com/culture/article/epic-covid-19-memorial-national-mall-one-stunning-photo
-
-- https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
-
-- https://covid19impactproject.com/extracting-stories-from-data/spring-2021-student-project-samples/ (Focus Tito)
-
-COVID & Wealth
-
-- https://www.analyticsvidhya.com/blog/2021/01/build-your-data-visualization-intuition-did-the-rich-get-richer-during-the-pandemic/
-
-WEALTH AND POVERTY
-
-- https://mkorostoff.github.io/1-pixel-wealth/
-- https://www.gapminder.org/dollar-street
-
-### HUMANIZING COVID-19 DATA
-
-- [COVID-19 Impact Project Blog Post on Humanizing COVID-19 Data](https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/)
-
-- [Washington Post Article: Pandemic First Wave](https://www.washingtonpost.com/nation/2020/04/12/coronavirus-first-1000-deaths/?arc404=true)

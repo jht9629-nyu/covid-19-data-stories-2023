@@ -12,7 +12,6 @@ Instructors: John Henry Thompson; Shindy Johnson
 
 This course will use the open source [The COVID-19 Impact Project](https://itp.nyu.edu/covid19impactproject/) as an entry point to explore humanizing data on systemic inequity and injustice on a global and local scale. 
 
-
 In this course we will:
 
 ● Explore and invent creative uses of data for advocacy and change. 
@@ -43,20 +42,18 @@ Students can choose to participate as creatives, artists, javascript coders, p5j
 
 ## Course Structure
 
-Students will participate in lectures, research, discussion groups, hands on design and build
-activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
+Students will participate in lectures, research, discussion groups, hands on design and build activities and group or individual projects. Students will be expected to dedicate at least 3 hours of work on weekly assignments in between sessions.
 
-**[Week 1 (10/27/23)](Week1.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice. How do open source data projects work and how can we use/contribute to open source data projects?  
+**[Week 1 (10/27/23)](Week1.md)** Lecture: Background, development and components of the Covid-19 Impact Project - a data driven project for social justice and social resilience. Historical and current examples of data visualization for social justice.   
 <!-- Data for Community Driven Mourning and Memorialization. Assignment: impact of the pandemic on you or your community. -->
 
-**[Week 2 (11/03/23)](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data.  More on open source data projects. 
+**[Week 2 (11/03/23)](Week2.md)** Lecture: Data literacy and accessible tools for data storytelling. The art of humanizing data. How do open source data projects work and how can we use/contribute to open source data projects?
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week3.md)** Lecture and Guest Speaker: Data in support of human rituals of grief, mourning and creation of monuments after mass death events. 
+**[Week 3](Week3.md)** Lecture and Guest Speaker: Telling stories using data.  Finding the stories in data.  NYC COVID-19 data vizualization. Multimodla data storytelling.  Considerations for designing data vizualizations.  Decoding data vizualizations.
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4](Week4.md)** Lecture: Big data, small personal data, data art. Guest Speaker
-
+**[Week 4](Week4.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
@@ -88,8 +85,6 @@ Students will be graded on
 The Coding Lab https://codinglab.itp.io/ and The Design Lab https://designlab.itp.io/
 
 These are peer-to-peer tutoring/mentoring/consulting groups that you can go for project help! Each mentor has different skills and strengths listed on their websites. Click the links above to find appointment links and contact information.
-
-Also, if you need shop help, you can meet with any of these knowledgeable shop people: Lulu, Aidan or Ben
 
 If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://forms.gle/V2x4mecHPzUkEeaU7
 
