@@ -82,7 +82,9 @@ African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposit
 
 #### SUBMITTING YOUR WORK
 
-Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing). Homework must be submitted by midnight on the night before class. Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing)
+Create a folder with your name in the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l). Homework must be submitted by midnight on the night before class.
+
+- Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l)
 
 #### DUE WEEK 2:- Put your work in the folder labeled "Week 1"
 
