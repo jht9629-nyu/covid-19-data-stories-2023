@@ -68,6 +68,11 @@ African American Photographs Assembled By W. E. B. DuBois for 1900 Paris Exposit
 
 - http://metadeepmix.com/webdb/webdb/
 - http://www.loc.gov/pictures/collection/anedub/item/00651763/
+
+### DATA STORYTELLING
+- Exploring data, uncovering narrative.
+- Data storytelling and bias?
+
 ## Homework
 
 #### SUBMITTING YOUR WORK
