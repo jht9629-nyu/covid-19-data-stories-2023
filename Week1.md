@@ -34,7 +34,7 @@ Brainstorm how would you create a vizualization from the information.
 In small groups choose one data visualization from W.E.B. DuBois' collection for the 1900's Paris Expo, to discuss. You can use any of the following resources
 
 - INSTALLATION ON THE FLOOR: JHT's Colored Portraits Digital Art on the floor
-  - [2021-NYU-ITP-Installation](https://jht1493.github.io/2021-NYU-ITP-Installation/colored.html)
+  - [2021-NYU-ITP-Installation](https://jht1493.github.io/2021-NYU-ITP-Installation/?v=2023-10-27-10:26:42)
 - BOOKS:
   - "W.E.B. DuBois's Data Portraits Visualizing Black America"
   - "WEB DuBois's Data Portraits Visualizing Black America"
