@@ -15,15 +15,25 @@ This course will use the open source [The COVID-19 Impact Project](https://itp.n
 
 In this course we will:
 
-● Explore and invent creative uses of data for advocacy and change.
+● _Explore_ ideas of memory making for social justice and social resilience
+
+● _Discuss_ pioneers and contemporary developers of data visualization for social justice
+
+● _Explore_ different modes of data storytelling
+
+● _Develop_ new data stories according to student interest
+
+● _Clarify_ pandemic stories through data disaggregation
+
+<!-- ● Explore and invent creative uses of data for advocacy and change.
 
 ● Discover how data flows from public github repositories and tools needed to visualize the data.
 
-● Review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
+● Examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good. -->
 
-● Examine and draw inspiration from historical and contemporary data visualizations developed by advocates for social justice and the public good.
+<!-- ● Review other data-centric open source projects for the public good and discuss the questions they are trying to answer or problems they are trying to solve.
 
-● Use data visualization as a scaffold to explore ways to support community driven mourning and memorialization after mass death events.
+● Use data visualization as a scaffold to explore ways to support community driven mourning and memorialization after mass death events. -->
 
 Students can choose to participate as creatives, artists, javascript coders, p5js explorers, UI/UX designers, citizen journalists, data science explorers or social justice advocates.
 
