@@ -4,7 +4,7 @@
 
 ### Class Google Drive
 
-Please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/1gud-8D7037vPalwWehOoDlcIpteUQpmH?usp=sharing).
+Please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l).
 
 ### In Class Presentations
 

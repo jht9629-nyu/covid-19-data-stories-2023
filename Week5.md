@@ -16,7 +16,7 @@ We will explore the concept of "Data Humanism" by examining the philosophy and w
 
 ### Class Google Drive
 
-Before the Class: please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/1LnDZgQz0g6WLeaH3QMHVdjwP3hp1HnA5?usp=sharing).
+Before the Class: please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l)
 
 ### In Class Presentations PART 1:
 
@@ -34,8 +34,6 @@ An important part of the final class is student feedback on the projects of your
 - Verbal feedback: (self explanatory)
 - Written feedback:
   Please use this [Google Doc](https://docs.google.com/document/d/16cW3M4sQ4FX-5dEPpTOaCR2W98JWDWT-9udsB7kGoJ8/edit?usp=sharing) to write your feedback in the row with the presenter's name and add your initials. A sample is in the doc.
-
-
 
 <!-- ## CLASSROOM GUEST
 
