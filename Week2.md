@@ -2,40 +2,12 @@
 
 ## Resources for In Class Activities
 
-### COVID-19 DASHBOARDS
-
-- https://jht1493.net/COVID-19-Impact/Dashboard
-
-- [Johns Hopkins University COVID-19 Dashboard](https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
-
-- [New York City Coronavirus Data](https://www.nytimes.com/interactive/2021/us/new-york-city-new-york-covid-cases.html)
-
-- [Our World in Data](https://ourworldindata.org/coronavirus)
-
-### DATA FLOW FROM OPEN SOURCE REPOS
-
-Data from JHU Repo
-
-- [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
-- [JHU CSSE Daily Report Sample](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-10-2022.csv)
-- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/aparse.js) developed by John Henry Thompson to parse JHU data.
-- The data parsed into a [json file](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/world/c_meta.json)
-
-Data from NYC Department of Health and Mental Hygiene
-
-- NYC DOHMH [Github](https://github.com/nychealth/coronavirus-data)
-- NYC Data by [zip code](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv)
-- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/parse_nyc.js) developed by John Henry Thompson to parse NYC data
-- Parsed data as human readable files
-  - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
-  - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
 
 ### CLASSROOM ACTIVITIES
 #### Activity 1 - Using p5js to analyze and compare public data from NYC repo
 
 - https://editor.p5js.org/jht1493/sketches/bxiT7lMbt 
   loadJSON c19 series brooklyn
-
 
 ### DATA LITERACY AND DATA VIZUALIZATION TOOLS
 
@@ -46,7 +18,7 @@ Data from NYC Department of Health and Mental Hygiene
 ### SOME NOTES ON DATA LITERACY/EXTRACTING STORIES FROM DATA\*
 
 Data is a set of numerical values described by qualitative and quantitative variables.
-Data visualizations (graphs, charts, maps and other creative visualizatoins) should:
+Data visualizations (graphs, charts, maps and other creative visualizations) should:
 
 - Have a clear title and purpose
 - Provide insight into the data?
@@ -69,6 +41,50 @@ In creating or examining visualizations ask:
 - Can you gather useful and actionable data from this visualization?
 
 \*Source: Tableau Online
+
+### DATA FLOW FROM OPEN SOURCE REPOS
+
+Data from JHU Repo
+
+- [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+- [JHU CSSE Daily Report Sample](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-10-2022.csv)
+- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/aparse.js) developed by John Henry Thompson to parse JHU data.
+- The data parsed into a [json file](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/world/c_meta.json)
+
+Data from NYC Department of Health and Mental Hygiene
+
+- NYC DOHMH [Github](https://github.com/nychealth/coronavirus-data)
+- NYC Data by [zip code](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv)
+- [Program](https://github.com/EP-Visual-Design/COVID-19-Impact-Project/blob/master/parse/parse_nyc.js) developed by John Henry Thompson to parse NYC data
+- Parsed data as human readable files
+  - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
+  - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
+
+
+### DATA VISUALIZATION LINKS
+- [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/)
+
+- [Information is Beautiful: A Breasfeeding Journey](https://public.tableau.com/app/profile/louise.shorten/viz/InformationisBeautiful-ABreastfeedingJourney/ABreastfeedingJourney)
+
+- [The COVID Tracking Project](https://covidtracking.com/)
+
+
+
+
+### COVID-19 DASHBOARDS
+
+- https://jht1493.net/COVID-19-Impact/Dashboard
+
+- [Johns Hopkins University COVID-19 Dashboard](https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6)
+
+- [New York City Coronavirus Data](https://www.nytimes.com/interactive/2021/us/new-york-city-new-york-covid-cases.html)
+
+- [Our World in Data](https://ourworldindata.org/coronavirus)
+
+
+
+
+
 
 ### DATA VISUALIZATION EXAMPLES
 
@@ -104,3 +120,6 @@ WEALTH AND POVERTY
 <!--## Homework
 
 #### INSTRUCTIONS
+
+
+[def]: https://public.tableau.com/app/profile/louise.shorten/viz/InformationisBeautiful-ABreastfeedingJourney/ABreastfeedingJourney

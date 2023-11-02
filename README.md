@@ -101,6 +101,13 @@ Students will be graded on
 
 [NYU Library Data Services](https://library.nyu.edu/departments/data-services/)
 
+###  Coding Resources
+[p5js](https://p5js.org/); [d3js](https://d3js.org/); 
+
+[observablehq.com d3 Gallery](https://observablehq.com/@d3/gallery)
+
+[COVID-19 Impact Project Dashboard Tools](https://jht1493.net/COVID-19-Impact/Project/docs/d06-code)
+
 ### ITP Resources
 
 The Coding Lab https://codinglab.itp.io/ and The Design Lab https://designlab.itp.io/
@@ -108,6 +115,8 @@ The Coding Lab https://codinglab.itp.io/ and The Design Lab https://designlab.it
 These are peer-to-peer tutoring/mentoring/consulting groups that you can go for project help! Each mentor has different skills and strengths listed on their websites. Click the links above to find appointment links and contact information.
 
 If you are in need of project documentation (photos, film, interviews, etc.), you can get in touch with the Documentation Lab: https://forms.gle/V2x4mecHPzUkEeaU7
+
+## Academic Statements
 
 STATEMENT OF ACADEMIC INTEGRITY
 
