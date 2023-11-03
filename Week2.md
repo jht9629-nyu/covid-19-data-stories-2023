@@ -15,13 +15,13 @@
 - https://www.tableau.com/academic/students Download and install Tableau. Get one year license for use (renewable)
 - p5*js [p5*js.org](https://p5js.org/)
 
-### SOME NOTES ON DATA LITERACY/EXTRACTING STORIES FROM DATA\*
+### SOME NOTES ON DATA LITERACY*
 
 Data is a set of numerical values described by qualitative and quantitative variables.
 Data visualizations (graphs, charts, maps and other creative visualizations) should:
 
 - Have a clear title and purpose
-- Provide insight into the data?
+- Provide insight into the data
 - Make clear what the visualization represents
 - Make it's intention clear within moments
 - Reveal trends and patterns if they exist
@@ -37,8 +37,8 @@ In creating or examining visualizations ask:
 
 - Can I answer all of my questions with what I see, or do I need more data?
 - ​Is it clear what has been measured, and what the numbers represent?
-- Has the author included helpful notes, labels, and navigational hints?
-- Can you gather useful and actionable data from this visualization?
+- Are there helpful notes, labels, and navigational hints?
+- Can the viewer gather useful and actionable data from this visualization?
 
 \*Source: Tableau Online
 
@@ -59,7 +59,6 @@ Data from NYC Department of Health and Mental Hygiene
 - Parsed data as human readable files
   - [Data organized by date across all zip codes](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_days/2020-05-18.json)
   - [json for one zipcode across the time series](https://github.com/EP-Visual-Design/COVID-19-parsed-data/blob/main/c_data/nyc/c_subs/Brooklyn/c_series/11201.json)
-
 
 ### DATA VISUALIZATION LINKS
 - [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/)
@@ -83,10 +82,9 @@ Data from NYC Department of Health and Mental Hygiene
 
 
 
-
-
-
 ### DATA VISUALIZATION EXAMPLES
+
+
 
 COVID-19
 
@@ -106,6 +104,36 @@ WEALTH AND POVERTY
 
 - https://mkorostoff.github.io/1-pixel-wealth/
 - https://www.gapminder.org/dollar-street
+
+## HOMEWORK
+#### SUBMITTING YOUR WORK
+
+- Submit homework to your folder on the [2023 CLASS GOOGLE DRIVE](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l)
+
+#### DUE WEEK 3:- Put your work in the folder labeled "Week 2"
+
+1. **Reflect on Week 2 class.** Think about whether you might like to contribute to building the project or creating a new piece of work for your final project. _Be prepared to discuss in class._
+
+2. **THE COVID TRACKING PROJECT:** https://revealnews.org/article/covid-tracking-project/
+   This three-part podcast series exposes the Centers for Disease Control and Prevention’s (CDC's) bungled response to COVID-19 in the early days of the pandemic and takes listeners inside the massive volunteer effort to collect data about tests, cases, hospitalizations and deaths in the U.S. The United States has 4% of the world’s population, but 16% of COVID-19 deaths. This podcast series investigates the failures that led to over 1 million Americans dying from COVID-19 and what that tells us about the nation’s ability to respond to the next pandemic. This three-part series was reported by Artis Curiskis and Kara Oehler and hosted by infectious disease expert Jessica Malaty Rivera.
+
+- **Listen to Episode 2 of the COVID Tracking Project podcast (50 mins).** https://revealnews.org/article/covid-tracking-project/
+- In a medium of your choice, react to at least one thing that caught your attention. (essay, poetry, prose, art etc)
+
+3. **Choose a new data vizzies or one from last week's homework.** Put screenshots, images (if from printed material) and links if relevant into your Week 2 Google folder.  Analyze the vizzie through the lens of data literacy as we discussed in class.  For the vizzie you chose, write down your answers to the following questions:
+
+  -  What is the source of the data?
+  -  What does the chart/graph/visualization represent?
+  -  Is there a clear title and purpose?
+  -  Is the title informative/accurate/misleading/vague?  COuld you suggest a more accurate or informative title?
+  -  Can you understand the intent of the visualization in a few moments?
+  -  Is there enough auxiliary information to help you decode the data?  What auxiliary information is provided?  How is it provided?
+  -  Does the visualization allow you to access granularity?
+  -  What insight into the data does the visualization provide?
+  -  Do any particular patterns or trends emerge?  If so, what are they?
+
+
+
 
 
 <!--## Homework
