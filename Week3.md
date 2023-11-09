@@ -1,27 +1,11 @@
 # Week 3
 
-<!--## Homework Review
+### HOMEWORK:
+1. **THE COVID TRACKING PROJECT:** https://revealnews.org/article/covid-tracking-project/
+   This three-part podcast series exposes the Centers for Disease Control and Prevention’s (CDC's) bungled response to COVID-19 in the early days of the pandemic and takes listeners inside the massive volunteer effort to collect data about tests, cases, hospitalizations and deaths in the U.S. The United States has 4% of the world’s population, but 16% of COVID-19 deaths. This podcast series investigates the failures that led to over 1 million Americans dying from COVID-19 and what that tells us about the nation’s ability to respond to the next pandemic. This three-part series was reported by Artis Curiskis and Kara Oehler and hosted by infectious disease expert Jessica Malaty Rivera.
 
-## Links and Resources
-
-### DATA VISUALIZATIONS: p5js
-
-The parsed data review
-
-- https://github.com/EP-Visual-Design/COVID-19-parsed-data
-
-- https://editor.p5js.org/jht1493/sketches/JG-Wh7SQz
-  loadJSON c19 -- simple loading data, view in console
-
-- https://editor.p5js.org/jht1493/sketches/fGU4wVifo
-  loadJSON c19 format + c_regions
-  -- data formatted to better read in html
-
-- https://editor.p5js.org/jht1493/sketches/1ZajWH3S8
-  loadJSON c19 graph -- data graphed
-
-- https://editor.p5js.org/jht1493/sketches/bxiT7lMbt
-  loadJSON c19 series brooklyn
+- **Listen to Episode 3 of the COVID Tracking Project podcast (50 mins).** https://revealnews.org/article/covid-tracking-project/
+- In a medium of your choice, react to at least one thing that caught your attention. (essay, poetry, prose, art etc)
 
 ### DATA VISUALIZATIONS: Tableau
 
@@ -37,6 +21,8 @@ The parsed data review
 - https://www.nationalgeographic.com/culture/article/epic-covid-19-memorial-national-mall-one-stunning-photo
 - https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
 - https://covid19impactproject.com/extracting-stories-from-data/spring-2021-student-project-samples/ (Focus: Tito)
+
+<!--
 
 ### DATA VISUALIZATIONS: Storytelling
 
@@ -71,4 +57,3 @@ The parsed data review
 
 - Poor People’s Campaign https://memorial.poorpeoplescampaign.org/
 -->
-Coming Soon

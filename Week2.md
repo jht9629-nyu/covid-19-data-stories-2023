@@ -2,7 +2,6 @@
 
 ## Resources for In Class Activities
 
-
 ### CLASSROOM ACTIVITIES
 #### Activity 1 - Using p5js to analyze and compare public data from NYC repo
 
@@ -14,6 +13,10 @@
 - The Covid Tracking Project https://covidtracking.com/
 - https://www.tableau.com/academic/students Download and install Tableau. Get one year license for use (renewable)
 - p5*js [p5*js.org](https://p5js.org/)
+
+### CLASSROOM ACTIVITY/DISCUSSION LINKS
+#### Tableau Public: 
+ - [What is a Good SAT Score](https://public.tableau.com/app/profile/mehras/viz/WhatisagoodSATscore/WhatisagoodSATscore)
 
 ### SOME NOTES ON DATA LITERACY*
 
