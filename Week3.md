@@ -26,14 +26,13 @@
 - **Listen to Episode 3 of the COVID Tracking Project podcast (50 mins).** https://revealnews.org/article/covid-tracking-project/
 - In a medium of your choice, react to at least one thing that caught your attention. (essay, poetry, prose, art etc)
 
-### DATA VISUALIZATIONS: Tableau
-
 ### DATA VISUALIZATIONS: Other Tools
 
 - https://observablehq.com/@d3/bar-chart-race-explained
   Bar Chart Race, Explained:
 - https://vizhub.com/
 
+<!--
 ### DATA VISUALIZATIONS: Memorialization
 
 - https://covid19impactproject.com/covid-19-memorial-ticker/
@@ -41,7 +40,7 @@
 - https://covid19impactproject.com/2022/01/15/curating-covid-19-memorials/
 - https://covid19impactproject.com/extracting-stories-from-data/spring-2021-student-project-samples/ (Focus: Tito)
 
-<!--
+
 
 ### DATA VISUALIZATIONS: Storytelling
 
