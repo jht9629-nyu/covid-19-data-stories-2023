@@ -3,7 +3,7 @@
 ### CLASS ACTIVITIES:
 1. [Review homework](https://docs.google.com/presentation/d/1m-w7MIFqowBdQl8-gA0_CWDc4FQWnrVF6ihYMOMhs_g/edit?usp=sharing)
 
-**DISCUSS:The COVID Tracking Project** 
+**DISCUSS: The COVID Tracking Project** 
 - The importance of granularity to data integrity in the context of public health data.
 - "Not just a data project... a project about human data"
 - "Moral Injury... A systemic betrayal bythe organizations whose jobs it is to keep everyone safe"
