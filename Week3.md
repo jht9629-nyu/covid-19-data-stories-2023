@@ -5,6 +5,8 @@
 
 **DISCUSS:** 
 - The importance of granularity to data integrity in the context of public health data.
+- "Not just a data project... a project about human data"
+- "Moral Injury... A systemic Betrayal bythe organizations whose jobs it is to keep everyone safe"
 
 ### DATA VISUALIZATIONS TO DISCUSS:
 
