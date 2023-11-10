@@ -63,7 +63,9 @@ Students will participate in lectures, research, discussion groups, hands on des
 
 <!-- Other Open Source Data Projects. -->
 
-**[Week 3](Week3.md)** Lecture and Guest Speaker: Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodla data storytelling. Considerations for designing data vizualizations. Decoding data vizualizations.
+**[Week 3 11/10/23](Week3.md)** Lecture and Guest Speaker: 
+Our guest lecturer will be Tm Williams from [Tickr, Inc.](ttps://www.tickr.com/)  Tickris a data analytics and data visualization firm that uses technologies including machine learning and AI to deploy anayltics for businesses.
+Telling stories using data. Finding the stories in data. NYC COVID-19 data vizualization. Multimodla data storytelling. Considerations for designing data vizualizations. Decoding data vizualizations.
 
 <!-- Early Pioneers of Data Visualization. -->
 
