@@ -80,6 +80,8 @@ Telling stories using data. Finding the stories in data. NYC COVID-19 data vizua
 
 **[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 
+**[Data Viz (Student Curated)]** (/Users/shindy/Documents/GitHub/covid-19-data-stories-2023/Data Visualization Links Student Curated)**
+
 ## Grading
 
 Students will be graded on
