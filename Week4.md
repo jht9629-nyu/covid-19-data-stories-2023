@@ -21,6 +21,15 @@
 
 - [The Stories Behind a Line: Fededrica Fragapane - OpenVis Conference 2018](https://youtu.be/AloL4SuRdA4?si=vovCXnwP1qy0y_on&t=1092)
 
+### HOMEWORK
+#### Final Project
+- Title
+- Brief description/Abstract/Concept
+- Methodology
+- What you learned
+- Questions remaining
+- Next steps
+
 <!--
 ## Homework Review
 
@@ -93,4 +102,3 @@ The parsed data review
 
 - Poor People’s Campaign https://memorial.poorpeoplescampaign.org/
 -->
-Coming Soon
