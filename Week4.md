@@ -1,4 +1,25 @@
-# Week 4
+# Week 4 (CATCHING UP ON WEEK 3)
+
+### CLASS ACTIVITIES:
+1. [Review homework](https://docs.google.com/presentation/d/1m-w7MIFqowBdQl8-gA0_CWDc4FQWnrVF6ihYMOMhs_g/edit?usp=sharing)
+
+**DISCUSS: The COVID Tracking Project** 
+- The importance of granularity to data integrity in the context of public health data.
+- "Not just a data project... a project about human data"
+- "Moral Injury... A systemic betrayal bythe organizations whose jobs it is to keep everyone safe"
+
+### DATA VISUALIZATIONS TO DISCUSS:
+
+#### Large Data Sets
+- [How much Money?](https://mkorostoff.github.io/1-pixel-wealth/)
+- [Dollar Street](https://www.gapminder.org/dollar-street)
+- [Gun Deaths in America](https://fivethirtyeight.com/features/gun-deaths/)
+- [Gapminder Worldview Upgrader](https://upgrader.gapminder.org/)
+
+#### Smaller and Personal Data Sets
+- [Information is Beautiful: A Breasfeeding Journey](https://public.tableau.com/app/profile/louise.shorten/viz/InformationisBeautiful-ABreastfeedingJourney/ABreastfeedingJourney)
+
+- [The Stories Behind a Line: Fededrica Fragapane - OpenVis Conference 2018](https://youtu.be/AloL4SuRdA4?si=vovCXnwP1qy0y_on&t=1092)
 
 <!--
 ## Homework Review
