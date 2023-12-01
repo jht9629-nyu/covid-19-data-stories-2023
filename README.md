@@ -74,7 +74,7 @@ Telling stories using data. Finding the stories in data. NYC COVID-19 data vizua
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5](Week5.md)** Lecture: Outside the box: Data storytelling in public spaces. Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
+**[Week 5 12/01/2023](Week5.md)** Lecture: Outside the box: Data storytelling in public spaces. Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
 
 **[Week 6](Week6.md)** Presentations and Guest Speaker: Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
