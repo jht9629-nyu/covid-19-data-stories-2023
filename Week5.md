@@ -16,16 +16,16 @@ We will explore the concept of "Data Humanism" by examining the philosophy and w
 
 ### Class Google Drive
 
-Before the Class: please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l)
+Before the Class: please upload all of your project assets into your individual folder on our shared [Google Drive](https://drive.google.com/drive/folders/10LzZNPTCnpLnLxpQN9ewITFg9ku76L9l?usp=sharing)
 
 ### In Class Presentations PART 1:
 
-<<ALL presentations are in person
+<!-- **ALL presentations are in person**
 
 All presentations will be recorded using Zoom. Although we are all in the classroom, we will ask each of you to conduct your presentation using the screen sharing technology that Zoom offers. So please be sure to bring your laptops to class or check one out from the ER if you need to. You only have to log in when it is your turn to present.
 
 **To join the Zoom Meeting**
-https://nyu.zoom.us/j/shindymelaniejones
+https://nyu.zoom.us/j/shindymelaniejones -->
 
 ### Course Project Feedback
 
@@ -33,7 +33,11 @@ An important part of the final class is student feedback on the projects of your
 
 - Verbal feedback: (self explanatory)
 - Written feedback:
-  Please use this [Google Doc](https://docs.google.com/document/d/16cW3M4sQ4FX-5dEPpTOaCR2W98JWDWT-9udsB7kGoJ8/edit?usp=sharing) to write your feedback in the row with the presenter's name and add your initials. A sample is in the doc.
+  Please use this [Google Doc](https://docs.google.com/document/d/1X0ctAIQgSPUy_RaskWOxGr9BiTLJ9XaZmBmWhDhW3Sg/edit) to write your feedback in the row with the presenter's name and add your initials. A sample is in the doc.
+
+## STORYTELLING
+![The value of Stories](https://drive.google.com/file/d/18YKQno7YRsmJS-VtilLBFHcLmlML4_Jg/view?usp=sharing)
+
 
 <!-- ## CLASSROOM GUEST
 
