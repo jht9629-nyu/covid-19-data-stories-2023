@@ -1,3 +1,5 @@
+## Coming Soon!
+<!--
 # Week 7
 
 ## FINAL PRESENTATIONS
@@ -39,4 +41,4 @@ Our classroom will be visited by [Tyler Peppel](https://www.linkedin.com/in/tyle
 
 ## EVALUATIONS:
 
-The final evaluations for the course are due today 03/21/2022. You will be given some time after the presentations to complete your evaluations. Evaluations are confidential and help us to improve on the course. Thank you in advance for your feedback.
+The final evaluations for the course are due today 03/21/2022. You will be given some time after the presentations to complete your evaluations. Evaluations are confidential and help us to improve on the course. Thank you in advance for your feedback. -->
