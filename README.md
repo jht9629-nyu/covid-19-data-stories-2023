@@ -70,13 +70,19 @@ Telling stories using data. Finding the stories in data. NYC COVID-19 data vizua
 
 <!-- Early Pioneers of Data Visualization. -->
 
-**[Week 4](Week4.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
+**[Week 4 (11/17/23)](Week4.md)** Lecture: Vizualization considerations when working with big data, small personal data, data art. Explore social resilience and examples of social resilience resulting from data disagregation and memory making from data.
 
 <!-- Humanizing COVID-19 Data. Memorials, Grief and Mourning. Select course project and work on the first iteration to present in the next class. -->
 
-**[Week 5 12/01/2023](Week5.md)** Lecture: Outside the box: Data storytelling in public spaces. Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
+**[Week 5 (12/01/2023)](Week5.md)** Lecture: The value of stories. Data Visualization: Paragraph or Picture? Researching, documenting and citing data sources.
 
-**[Week 6](Week6.md)** Presentations and Guest Speaker: Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
+**Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
+
+**[Week 6 (12/08/23)](Week6.md)** 
+
+**Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
+
+**Visitor and Guest Speaker:** Tyler Peppel Founder and CEO of Tickr.com
 
 **[Week 7](Week7.md)** Presentations and Classroom Visitor(s). Students present the final project. All assignments must include documentation. All project documentation must be uploaded to class Google drive and/or Github repo.
 

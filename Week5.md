@@ -64,7 +64,9 @@ https://github.com/linssen/country-flag-icons/tree/master
 - Github for [NYC Income Data](https://github.com/leey611/nyc-covid-map)
 
 ## HOMEWORK
-#### Final Project
+### Final Project
+Work on the second iteration of your project. Incorporate feedback from this week's class.  
+#### For Week 6
 - Title
 - Brief description/Abstract/Concept
 - Methodology
@@ -73,7 +75,7 @@ https://github.com/linssen/country-flag-icons/tree/master
 - Next steps
 
 ## REMINDERS
-Your homework assignments constitute an important part of your grade.  Please check each week on the syllabus to make sure that you have completed all of the assignments.  **LAST DATE TO MAKE UP MISSING OR IMCOMPLETE ASSIGNEMNTS IS 12/14/2023**
+Your homework assignments constitute an important part of your grade.  Please check each week on the syllabus to make sure that you have completed all of the assignments. **LAST DATE TO MAKE UP MISSING OR IMCOMPLETE ASSIGNMENTS IS 12/14/2023**
 
 <!-- ## CLASSROOM GUEST
 
