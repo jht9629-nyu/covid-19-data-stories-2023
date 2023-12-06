@@ -37,6 +37,7 @@ An important part of the final class is student feedback on the projects of your
   Please use this [Google Doc](https://docs.google.com/document/d/1X0ctAIQgSPUy_RaskWOxGr9BiTLJ9XaZmBmWhDhW3Sg/edit) to write your feedback in the row with the presenter's name and add your initials. A sample is in the doc.
 
 ## STORYTELLING
+![Storytelling](Images/Storytelling.png)
 - Stories are an important piece of the fabric that weaves together our collective humanity.
 - A story can provide a mirror or a window to someone else’s lived experience, engendering empathy and a sense of connection.
 - Stories are also important stewards of our past and present experiences and can motivate us to envision a better future.

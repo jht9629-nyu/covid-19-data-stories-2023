@@ -78,7 +78,7 @@ Telling stories using data. Finding the stories in data. NYC COVID-19 data vizua
 
 **Final Project:** Students present final project concept and first iteration for in-class discussion and feedback. All assignments must include documentation. All project documentation uploaded to class Google drive and/or Github repo.
 
-**[Week 6 (12/08/23)](Week6.md)** 
+**[Week 6 (12/08/23)](Week6.md)** Lecture: Small Data, Personal Data:  Examining the work of Giorgia Lupi.  More on documentation and citation.
 
 **Final Projects:** Students present second iteration of final project for in class discussion and feedback. All project documentation must be uploaded to class Google drive and/or Github repo.
 
