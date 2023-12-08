@@ -49,7 +49,6 @@ Marking 500k+ deaths by acknowledging this individual impacted by pandemic.](htt
 - [**Student Projects**](https://itp.nyu.edu/covid19impactproject/data-storytelling/)
 
 ## OTHER MEMORIALS
-- 
 - https://www.nytimes.com/2021/05/21/nyregion/nyc-virus-memorials.html
 - https://covidmemorial.online/
 - https://metro.co.uk/2021/10/30/memorials-created-around-the-world-for-those-who-have-died-in-pandemic-15514162/
